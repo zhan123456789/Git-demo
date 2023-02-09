@@ -1,3 +1,4 @@
-My name is Dominic
-111111111111
-我是hot fix 分支
+hello Dominic 
+My name is haodong
+This is Github
+Now i change txt
