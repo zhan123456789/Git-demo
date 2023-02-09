@@ -1,4 +1,4 @@
 hello Dominic 
 My name is haodong
 This is Github
-Now i change txt
+Now i have change txt
